@@ -7,7 +7,7 @@ import requests #for OASA exception
 import OASA_Scraper as OASA
 
 
-client = commands.Bot(command_prefix = "")
+client = commands.Bot(command_prefix = "oasa!")
 @client.event
 async def on_message(message):
         if message.author == client.user:
