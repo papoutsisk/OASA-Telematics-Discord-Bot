@@ -145,4 +145,4 @@ async def on_message(message):
                         await chan.send("Μονο ενα λεωφορειο δινουμε ρε **ΜΠΕΤΟΒΛΑΚΑ ΓΑΜΩ ΤΗ ΤΥΧΗ ΣΟΥ**")
 
 #client.loop.create_task(reaction_message_send())
-client.run("YourTokenHere")
+client.run("OTE3MDg0ODA1Mjc4MDgxMDc1.YazjyA.h0g258XcV6Pxpr3In9e8hDkq_Co")
